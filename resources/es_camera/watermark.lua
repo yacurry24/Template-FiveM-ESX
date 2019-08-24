@@ -1,8 +1,8 @@
 -- CONFIG --
 
--- NE PAS MODIFIER 
-servername = "Version 1.72 | © Oreo"
--- NE PAS MODIFIER 
+-- YOUR VERSION
+servername = "Version 0.1 | © SERVER NAME"
+-- YOUR VERSION 
 
 -- The x and y offset (starting at the top left corner) --
 -- Default: 0.005, 0.001
